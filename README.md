@@ -4,4 +4,4 @@ I'm a Software Engineer @ [Portworx](http://portworx.com/) building control plan
 
 When I'm not coding, you can find me in the mountains climbing rock, ice, and snow! Here's me in the French Alps!
 
-![](alps.jpg)
+![](https://github.com/ggriffiths/ggriffiths/blob/master/alps.jpg)
