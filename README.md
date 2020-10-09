@@ -4,4 +4,4 @@ I'm a Software Engineer @ [Pure Storage](https://www.purestorage.com/) working o
 
 When I'm not coding, you can find me in the mountains climbing rock, ice, and snow!
 
-![](https://github.com/ggriffiths/ggriffiths/blob/master/alps.jpg =300x)
+![](https://github.com/ggriffiths/ggriffiths/blob/master/alps.jpg | width=300)
